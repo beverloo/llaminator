@@ -18,6 +18,9 @@
     "url": "https://github.com/GoogleChromeLabs/llaminator/issues"
   },
   "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/jest-environment-puppeteer": "^4.4.1",
+    "@types/puppeteer": "^5.4.4",
     "@types/uuid": "^8.3.3",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
